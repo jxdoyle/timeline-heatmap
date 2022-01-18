@@ -43,7 +43,6 @@ If using KML or GPX just replace the Location History.json from above with the n
   --max-date YYYY-MM-DD
                         The latest date from which you want to see data in the heatmap.
   --map MAP, -m MAP     The name of the map tiles you want to use. 
-                        Full list of built in tiles [here](https://github.com/python-visualization/folium/tree/main/folium/templates/tiles).
   -z ZOOM_START, --zoom-start ZOOM_START
                         The initial zoom level for the map. (default: 6)
   -r RADIUS, --radius RADIUS
@@ -67,6 +66,7 @@ To change the map:
 ```shell
 python timeline-heatmap.py --map StamenTerrain "Location History.json"
 ```
+Full list of built in tiles [here](https://github.com/python-visualization/folium/tree/main/folium/templates/tiles).
 
 ### View Your Heatmap
 

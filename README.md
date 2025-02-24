@@ -1,6 +1,6 @@
 <p align="center"><img src="images/timeline-poster-small.png" height="700"></p>
 
-Project work for a Data Self-Portrait, tasked with collecting data from oneself and creating a striking visualisaiton. This script takes 2 years of Google Timeline data from between August 2019 and August 2021, it then reads through it's 8,711,676 lines of codes and extracts location data which it displays as interactive heatmaps. I've taken these heatmaps and recorded their images to create an infographic poster as my final delivery. 
+Project work for a Data Self-Portrait, tasked with collecting data from oneself and creating a striking visualisation. This script takes 2 years of Google Timeline data from between August 2019 and August 2021, it then reads through its 8,711,676 lines of codes and extracts location data which it displays as interactive heatmaps. I've taken these heatmaps and recorded their images to create an infographic poster as my final delivery. 
 
 This script uses Python, Folium and OpenStreetMap.
 
